@@ -1,0 +1,330 @@
+{
+  "seller": [
+    {
+      "name": "Shrikant Dethe",
+      "password": "Shri123",
+      "email": "shrikantdethe530@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Anil",
+      "password": "Anil123",
+      "email": "anil23@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Shrikant Dethe",
+      "password": "Shrikant123",
+      "email": "Shri123",
+      "id": 3
+    }
+  ],
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  "products": [
+    {
+      "name": "Samsung s23",
+      "price": "123978",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "Samsung Phone",
+      "image": "https://images.samsung.com/in/smartphones/galaxy-s23-ultra/buy/DM3-web-1.jpg",
+      "id": 1
+    },
+    {
+      "name": "Samsung s10",
+      "price": "59999",
+      "category": "Mobile",
+      "color": "Blue",
+      "description": "A samsung Product",
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s10-1.jpg",
+      "id": 2
+    },
+    {
+      "name": "Nike Sneakers",
+      "price": "5999",
+      "category": "Shoes",
+      "color": "White",
+      "description": "This is a formal shoes",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6aa7ae2d-663e-4a67-bbc5-22645cfbf830/air-force-1-07-shoes-kv14Mh.png",
+      "id": 3
+    },
+    {
+      "name": "Nike Sweatshirt",
+      "price": "9999",
+      "category": "Cloths",
+      "color": "Black",
+      "description": "This is a sweatshirt",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bb2f4892-5e1d-4aa2-a903-7d53408a4c14/esc-knit-pullover-hoodie-QpVKV1.png",
+      "id": 4
+    },
+    {
+      "name": "Apple Earphone",
+      "price": "45632",
+      "category": "Accesories",
+      "color": "White",
+      "description": "This is a earphone",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-max-select-silver-202011?wid=470&hei=556&fmt=png-alpha&.v=1604021221000",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "Anil123",
+      "email": "anil@test.com",
+      "password": "Anil123",
+      "id": 1
+    },
+    {
+      "name": "Jay123",
+      "email": "jay@user.com",
+      "password": "User",
+      "id": 2
+    },
+    {
+      "name": "Nitin123",
+      "email": "nitin@user.com",
+      "password": "Nitin123",
+      "id": 3
+    },
+    {
+      "name": "Harshad",
+      "email": "harsh12@gmail.com",
+      "password": "Har123",
+      "id": 4
+    },
+    {
+      "name": "Shrikant Dethe",
+      "email": "shrikantdethe530@gmail.com",
+      "password": "Shri123",
+      "id": 5
+    },
+    {
+      "name": "tony",
+      "email": "tony@test.com",
+      "password": "tony123",
+      "id": 6
+    },
+    {
+      "name": "ashutosh",
+      "email": "ashu32@gmail.com",
+      "password": "ash123",
+      "id": 7
+    }
+  ],
+  "cart": [
+    {
+      "name": "Samsung s10",
+      "price": "59999",
+      "category": "Mobile",
+      "color": "Blue",
+      "description": "A samsung Product",
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s10-1.jpg",
+      "quantity": 1,
+      "productId": 2,
+      "userId": null,
+      "id": 2
+    },
+    {
+      "name": "Nike Sneakers",
+      "price": "5999",
+      "category": "Shoes",
+      "color": "White",
+      "description": "This is a formal shoes",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6aa7ae2d-663e-4a67-bbc5-22645cfbf830/air-force-1-07-shoes-kv14Mh.png",
+      "quantity": 1,
+      "productId": 3,
+      "userId": null,
+      "id": 3
+    },
+    {
+      "name": "Nike Sweatshirt",
+      "price": "9999",
+      "category": "Cloths",
+      "color": "Black",
+      "description": "This is a sweatshirt",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bb2f4892-5e1d-4aa2-a903-7d53408a4c14/esc-knit-pullover-hoodie-QpVKV1.png",
+      "quantity": 1,
+      "productId": 4,
+      "userId": null,
+      "id": 4
+    },
+    {
+      "name": "Samsung s10",
+      "price": "59999",
+      "category": "Mobile",
+      "color": "Blue",
+      "description": "A samsung Product",
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s10-1.jpg",
+      "quantity": 1,
+      "productId": 2,
+      "userId": null,
+      "id": 6
+    },
+    {
+      "name": "Nike Sweatshirt",
+      "price": "9999",
+      "category": "Cloths",
+      "color": "Black",
+      "description": "This is a sweatshirt",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bb2f4892-5e1d-4aa2-a903-7d53408a4c14/esc-knit-pullover-hoodie-QpVKV1.png",
+      "quantity": 1,
+      "productId": 4,
+      "userId": null,
+      "id": 7
+    },
+    {
+      "name": "Nike Sneakers",
+      "price": "5999",
+      "category": "Shoes",
+      "color": "White",
+      "description": "This is a formal shoes",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6aa7ae2d-663e-4a67-bbc5-22645cfbf830/air-force-1-07-shoes-kv14Mh.png",
+      "quantity": 1,
+      "productId": 3,
+      "userId": null,
+      "id": 8
+    },
+    {
+      "name": "Samsung s23",
+      "price": "123978",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "Samsung Phone",
+      "image": "https://images.samsung.com/in/smartphones/galaxy-s23-ultra/buy/DM3-web-1.jpg",
+      "quantity": 1,
+      "productId": 1,
+      "userId": null,
+      "id": 11
+    },
+    {
+      "name": "Samsung s23",
+      "price": "123978",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "Samsung Phone",
+      "image": "https://images.samsung.com/in/smartphones/galaxy-s23-ultra/buy/DM3-web-1.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 13
+    },
+    {
+      "name": "Samsung s23",
+      "price": "123978",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "Samsung Phone",
+      "image": "https://images.samsung.com/in/smartphones/galaxy-s23-ultra/buy/DM3-web-1.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 14
+    },
+    {
+      "name": "Samsung s23",
+      "price": "123978",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "Samsung Phone",
+      "image": "https://images.samsung.com/in/smartphones/galaxy-s23-ultra/buy/DM3-web-1.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 15
+    },
+    {
+      "name": "Samsung s23",
+      "price": "123978",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "Samsung Phone",
+      "image": "https://images.samsung.com/in/smartphones/galaxy-s23-ultra/buy/DM3-web-1.jpg",
+      "quantity": 1,
+      "productId": 1,
+      "userId": null,
+      "id": 18
+    },
+    {
+      "name": "Nike Sweatshirt",
+      "price": "9999",
+      "category": "Cloths",
+      "color": "Black",
+      "description": "This is a sweatshirt",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bb2f4892-5e1d-4aa2-a903-7d53408a4c14/esc-knit-pullover-hoodie-QpVKV1.png",
+      "quantity": 1,
+      "productId": 4,
+      "userId": null,
+      "id": 19
+    },
+    {
+      "name": "Samsung s10",
+      "price": "59999",
+      "category": "Mobile",
+      "color": "Blue",
+      "description": "A samsung Product",
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s10-1.jpg",
+      "quantity": 1,
+      "productId": 2,
+      "userId": null,
+      "id": 20
+    },
+    {
+      "name": "Samsung s10",
+      "price": "59999",
+      "category": "Mobile",
+      "color": "Blue",
+      "description": "A samsung Product",
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s10-1.jpg",
+      "quantity": 1,
+      "userId": 5,
+      "productId": 2,
+      "id": 21
+    }
+  ],
+  "orders": [
+    {
+      "email": "shrikantdethe530@gmail.com",
+      "address": "Pune",
+      "contact": "989556",
+      "totalPrice": 31596.85,
+      "userId": 5,
+      "id": 1
+    },
+    {
+      "email": "shrikantdethe530@gmail.com",
+      "address": "Pune",
+      "contact": "989556",
+      "totalPrice": 31596.85,
+      "userId": 5,
+      "id": 2
+    },
+    {
+      "email": "shriid1166@gmail.com",
+      "address": "Pune",
+      "contact": "989556",
+      "totalPrice": 130276.9,
+      "userId": 5,
+      "id": 3
+    },
+    {
+      "email": "shrikantdethe530@gmail.com",
+      "address": "Pune",
+      "contact": "9881186619",
+      "totalPrice": 130276.9,
+      "userId": 5,
+      "id": 4
+    }
+  ]
+}
